@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "542567978810",
+    "project_id": "javainstaclone-3a6d5",
+    "storage_bucket": "javainstaclone-3a6d5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:542567978810:android:859e98deed814dd9516203",
+        "android_client_info": {
+          "package_name": "com.example.javainstaclone"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA79_B2tKWdS6fLezgPBkjfxB9XpjbnDRI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
